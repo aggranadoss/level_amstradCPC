@@ -1,4 +1,4 @@
-# level_amstradCPC
+# Level AmstradCPC
 
 ## Level 1
 
