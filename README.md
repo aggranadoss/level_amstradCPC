@@ -11,5 +11,6 @@
 - [CHALLENGE 2.2 IMITATE A TRAP](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/amstrad_cpc_exercises_resolved/game_trap/INSTRUCTION.md)
 - [CHALLENGE 2.3 THE ACCELERATED BALL](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/amstrad_cpc_exercises_resolved/accelerated_ball/INSTRUCTION.md)
 - [CHALLENGE 3.4 CREATE YOUR SHOOTING CHARACTER](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/amstrad_cpc_exercises_resolved/challenge34/INSTRUCTION.md)
+- [POSITIONS AND VARIABLES - ARKANOID BAR](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/amstrad_cpc_exercises_resolved/arkanoid_bar/INSTRUCTION.md)
 
 ## Level 3 
