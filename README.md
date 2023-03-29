@@ -15,5 +15,8 @@
 - [CHALLENGE 3.3 DRAW THE SKY](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/amstrad_cpc_exercises_resolved/challenge33/INSTRUCTION.md)
 - [CHALLENGE 3.4 CREATE YOUR SHOOTING CHARACTER](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/amstrad_cpc_exercises_resolved/challenge34/INSTRUCTION.md)
 - [POSITIONS AND VARIABLES - ARKANOID BAR](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/amstrad_cpc_exercises_resolved/arkanoid_bar/INSTRUCTION.md)
+- [CHALLENGE 4.1 CREATE A FLOOR WITH PERIODIC REPETITION](https://github.com/aggranadoss/amstradcpc-machine-code/blob/master/amstrad_cpc_exercises_resolved/challenge41/INSTRUCTION.md)
+
+
 
 ## Level 3 
